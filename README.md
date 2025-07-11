@@ -1,5 +1,7 @@
 # Spontaneous Matter-Antimatter Conversion at Planck Densities
 
+[![PDF Download](https://img.shields.io/badge/Download-PDF-blue)](https://github.com/ArkOkupski-WAT/Hypothesis-of-Spontaneous-Matter-Antimatter-Conversion/raw/main/Hypothesis_of_Spontaneous_Matter_Antimatter_Conversion.pdf)
+
 ⚛️ *"Extreme gravitational fields as a catalyst for matter-antimatter inversion"*
 
 ## 📖 Abstract
