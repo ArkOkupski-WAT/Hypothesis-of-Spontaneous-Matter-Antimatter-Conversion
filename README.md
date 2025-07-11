@@ -2,6 +2,8 @@
 
 [![PDF Download](https://img.shields.io/badge/Download-PDF-blue)](https://github.com/ArkOkupski-WAT/Hypothesis-of-Spontaneous-Matter-Antimatter-Conversion/raw/main/Hypothesis_of_Spontaneous_Matter_Antimatter_Conversion.pdf)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15865447.svg)](https://doi.org/10.5281/zenodo.15865447)
+
 ⚛️ *"Extreme gravitational fields as a catalyst for matter-antimatter inversion"*
 
 ## 📖 Abstract
